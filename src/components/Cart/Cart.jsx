@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Cart.css'
 const Cart = ({cart}) => {
     // const {cart} = props
-    console.log(cart);
+    // console.log(cart);
     // calculate the total
     let totalPrice = 0;
     let totalShipping=0;
